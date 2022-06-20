@@ -1,0 +1,13 @@
+#input1{
+    width: 80px;
+}
+
+#input2{
+    width: 80px;
+}
+
+#button{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
